@@ -59,4 +59,3 @@ COHERE_API_KEY = "YOUR_API_KEY_HERE"
 
 3. **Run the script**
 python chatbot.py
-bash```
