@@ -9,7 +9,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 
 
-COHERE_API_KEY = "BEO8i0VBLJG7zBKDUiQgwkzBxBgeXhhA6W52kSJP"
+COHERE_API_KEY = "YOUR_COHERE_API_KEY"  # Replace with your Cohere API key
 co = cohere.Client(COHERE_API_KEY)
 
 with open("knowledge_base.json", "r") as file:
