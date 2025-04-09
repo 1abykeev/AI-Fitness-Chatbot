@@ -50,9 +50,8 @@ You can ask the chatbot things like:
 ---
 
 ## 🚀 How to Run
-
-1. **Install dependencies**  
 ```bash
+1. **Install dependencies**  
 pip install cohere numpy scikit-learn langchain
 
 2. **Add your Cohere API Key**
@@ -60,4 +59,4 @@ COHERE_API_KEY = "YOUR_API_KEY_HERE"
 
 3. **Run the script**
 python chatbot.py
-
+bash```
